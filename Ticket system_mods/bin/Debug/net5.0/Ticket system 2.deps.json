@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ticket system 2/1.0.0": {
+        "runtime": {
+          "Ticket system 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ticket system 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
