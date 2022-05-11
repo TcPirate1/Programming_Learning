@@ -1,0 +1,64 @@
+C:\Users\Terry\Documents\Ticket System\bin\Debug\net5.0\Ticket System.exe
+C:\Users\Terry\Documents\Ticket System\bin\Debug\net5.0\Ticket System.deps.json
+C:\Users\Terry\Documents\Ticket System\bin\Debug\net5.0\Ticket System.runtimeconfig.json
+C:\Users\Terry\Documents\Ticket System\bin\Debug\net5.0\Ticket System.runtimeconfig.dev.json
+C:\Users\Terry\Documents\Ticket System\bin\Debug\net5.0\Ticket System.dll
+C:\Users\Terry\Documents\Ticket System\bin\Debug\net5.0\ref\Ticket System.dll
+C:\Users\Terry\Documents\Ticket System\bin\Debug\net5.0\Ticket System.pdb
+C:\Users\Terry\Documents\Ticket System\obj\Debug\net5.0\Ticket System.csproj.AssemblyReference.cache
+C:\Users\Terry\Documents\Ticket System\obj\Debug\net5.0\Ticket System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Terry\Documents\Ticket System\obj\Debug\net5.0\Ticket System.AssemblyInfoInputs.cache
+C:\Users\Terry\Documents\Ticket System\obj\Debug\net5.0\Ticket System.AssemblyInfo.cs
+C:\Users\Terry\Documents\Ticket System\obj\Debug\net5.0\Ticket System.csproj.CoreCompileInputs.cache
+C:\Users\Terry\Documents\Ticket System\obj\Debug\net5.0\Ticket System.dll
+C:\Users\Terry\Documents\Ticket System\obj\Debug\net5.0\ref\Ticket System.dll
+C:\Users\Terry\Documents\Ticket System\obj\Debug\net5.0\Ticket System.pdb
+C:\Users\Terry\Documents\Ticket System\obj\Debug\net5.0\Ticket System.genruntimeconfig.cache
+C:\Users\TC\Desktop\Ticket system\bin\Debug\net5.0\Ticket System.exe
+C:\Users\TC\Desktop\Ticket system\bin\Debug\net5.0\Ticket System.deps.json
+C:\Users\TC\Desktop\Ticket system\bin\Debug\net5.0\Ticket System.runtimeconfig.json
+C:\Users\TC\Desktop\Ticket system\bin\Debug\net5.0\Ticket System.runtimeconfig.dev.json
+C:\Users\TC\Desktop\Ticket system\bin\Debug\net5.0\Ticket System.dll
+C:\Users\TC\Desktop\Ticket system\bin\Debug\net5.0\ref\Ticket System.dll
+C:\Users\TC\Desktop\Ticket system\bin\Debug\net5.0\Ticket System.pdb
+C:\Users\TC\Desktop\Ticket system\obj\Debug\net5.0\Ticket System.csproj.AssemblyReference.cache
+C:\Users\TC\Desktop\Ticket system\obj\Debug\net5.0\Ticket System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TC\Desktop\Ticket system\obj\Debug\net5.0\Ticket System.AssemblyInfoInputs.cache
+C:\Users\TC\Desktop\Ticket system\obj\Debug\net5.0\Ticket System.AssemblyInfo.cs
+C:\Users\TC\Desktop\Ticket system\obj\Debug\net5.0\Ticket System.csproj.CoreCompileInputs.cache
+C:\Users\TC\Desktop\Ticket system\obj\Debug\net5.0\Ticket System.dll
+C:\Users\TC\Desktop\Ticket system\obj\Debug\net5.0\ref\Ticket System.dll
+C:\Users\TC\Desktop\Ticket system\obj\Debug\net5.0\Ticket System.pdb
+C:\Users\TC\Desktop\Ticket system\obj\Debug\net5.0\Ticket System.genruntimeconfig.cache
+F:\Course Work\Level 5\Software Dev\IT5014_project_20210165\Ticket system_20210165\bin\Debug\net5.0\Ticket System.exe
+F:\Course Work\Level 5\Software Dev\IT5014_project_20210165\Ticket system_20210165\bin\Debug\net5.0\Ticket System.deps.json
+F:\Course Work\Level 5\Software Dev\IT5014_project_20210165\Ticket system_20210165\bin\Debug\net5.0\Ticket System.runtimeconfig.json
+F:\Course Work\Level 5\Software Dev\IT5014_project_20210165\Ticket system_20210165\bin\Debug\net5.0\Ticket System.runtimeconfig.dev.json
+F:\Course Work\Level 5\Software Dev\IT5014_project_20210165\Ticket system_20210165\bin\Debug\net5.0\Ticket System.dll
+F:\Course Work\Level 5\Software Dev\IT5014_project_20210165\Ticket system_20210165\bin\Debug\net5.0\ref\Ticket System.dll
+F:\Course Work\Level 5\Software Dev\IT5014_project_20210165\Ticket system_20210165\bin\Debug\net5.0\Ticket System.pdb
+F:\Course Work\Level 5\Software Dev\IT5014_project_20210165\Ticket system_20210165\obj\Debug\net5.0\Ticket System.csproj.AssemblyReference.cache
+F:\Course Work\Level 5\Software Dev\IT5014_project_20210165\Ticket system_20210165\obj\Debug\net5.0\Ticket System.GeneratedMSBuildEditorConfig.editorconfig
+F:\Course Work\Level 5\Software Dev\IT5014_project_20210165\Ticket system_20210165\obj\Debug\net5.0\Ticket System.AssemblyInfoInputs.cache
+F:\Course Work\Level 5\Software Dev\IT5014_project_20210165\Ticket system_20210165\obj\Debug\net5.0\Ticket System.AssemblyInfo.cs
+F:\Course Work\Level 5\Software Dev\IT5014_project_20210165\Ticket system_20210165\obj\Debug\net5.0\Ticket System.csproj.CoreCompileInputs.cache
+F:\Course Work\Level 5\Software Dev\IT5014_project_20210165\Ticket system_20210165\obj\Debug\net5.0\Ticket System.dll
+F:\Course Work\Level 5\Software Dev\IT5014_project_20210165\Ticket system_20210165\obj\Debug\net5.0\ref\Ticket System.dll
+F:\Course Work\Level 5\Software Dev\IT5014_project_20210165\Ticket system_20210165\obj\Debug\net5.0\Ticket System.pdb
+F:\Course Work\Level 5\Software Dev\IT5014_project_20210165\Ticket system_20210165\obj\Debug\net5.0\Ticket System.genruntimeconfig.cache
+C:\Users\TC\Desktop\Ticket system_20210165\bin\Debug\net5.0\Ticket System.exe
+C:\Users\TC\Desktop\Ticket system_20210165\bin\Debug\net5.0\Ticket System.deps.json
+C:\Users\TC\Desktop\Ticket system_20210165\bin\Debug\net5.0\Ticket System.runtimeconfig.json
+C:\Users\TC\Desktop\Ticket system_20210165\bin\Debug\net5.0\Ticket System.runtimeconfig.dev.json
+C:\Users\TC\Desktop\Ticket system_20210165\bin\Debug\net5.0\Ticket System.dll
+C:\Users\TC\Desktop\Ticket system_20210165\bin\Debug\net5.0\ref\Ticket System.dll
+C:\Users\TC\Desktop\Ticket system_20210165\bin\Debug\net5.0\Ticket System.pdb
+C:\Users\TC\Desktop\Ticket system_20210165\obj\Debug\net5.0\Ticket System.csproj.AssemblyReference.cache
+C:\Users\TC\Desktop\Ticket system_20210165\obj\Debug\net5.0\Ticket System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TC\Desktop\Ticket system_20210165\obj\Debug\net5.0\Ticket System.AssemblyInfoInputs.cache
+C:\Users\TC\Desktop\Ticket system_20210165\obj\Debug\net5.0\Ticket System.AssemblyInfo.cs
+C:\Users\TC\Desktop\Ticket system_20210165\obj\Debug\net5.0\Ticket System.csproj.CoreCompileInputs.cache
+C:\Users\TC\Desktop\Ticket system_20210165\obj\Debug\net5.0\Ticket System.dll
+C:\Users\TC\Desktop\Ticket system_20210165\obj\Debug\net5.0\ref\Ticket System.dll
+C:\Users\TC\Desktop\Ticket system_20210165\obj\Debug\net5.0\Ticket System.pdb
+C:\Users\TC\Desktop\Ticket system_20210165\obj\Debug\net5.0\Ticket System.genruntimeconfig.cache
