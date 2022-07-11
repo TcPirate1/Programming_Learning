@@ -1,0 +1,64 @@
+C:\Users\TC\Desktop\C# programming\Data Structures and Algorithm\Hospital\bin\Debug\net5.0\Hospital.exe
+C:\Users\TC\Desktop\C# programming\Data Structures and Algorithm\Hospital\bin\Debug\net5.0\Hospital.deps.json
+C:\Users\TC\Desktop\C# programming\Data Structures and Algorithm\Hospital\bin\Debug\net5.0\Hospital.runtimeconfig.json
+C:\Users\TC\Desktop\C# programming\Data Structures and Algorithm\Hospital\bin\Debug\net5.0\Hospital.runtimeconfig.dev.json
+C:\Users\TC\Desktop\C# programming\Data Structures and Algorithm\Hospital\bin\Debug\net5.0\Hospital.dll
+C:\Users\TC\Desktop\C# programming\Data Structures and Algorithm\Hospital\bin\Debug\net5.0\Hospital.pdb
+C:\Users\TC\Desktop\C# programming\Data Structures and Algorithm\Hospital\obj\Debug\net5.0\Hospital.csproj.AssemblyReference.cache
+C:\Users\TC\Desktop\C# programming\Data Structures and Algorithm\Hospital\obj\Debug\net5.0\Hospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TC\Desktop\C# programming\Data Structures and Algorithm\Hospital\obj\Debug\net5.0\Hospital.AssemblyInfoInputs.cache
+C:\Users\TC\Desktop\C# programming\Data Structures and Algorithm\Hospital\obj\Debug\net5.0\Hospital.AssemblyInfo.cs
+C:\Users\TC\Desktop\C# programming\Data Structures and Algorithm\Hospital\obj\Debug\net5.0\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\TC\Desktop\C# programming\Data Structures and Algorithm\Hospital\obj\Debug\net5.0\Hospital.dll
+C:\Users\TC\Desktop\C# programming\Data Structures and Algorithm\Hospital\obj\Debug\net5.0\refint\Hospital.dll
+C:\Users\TC\Desktop\C# programming\Data Structures and Algorithm\Hospital\obj\Debug\net5.0\Hospital.pdb
+C:\Users\TC\Desktop\C# programming\Data Structures and Algorithm\Hospital\obj\Debug\net5.0\Hospital.genruntimeconfig.cache
+C:\Users\TC\Desktop\C# programming\Data Structures and Algorithm\Hospital\obj\Debug\net5.0\ref\Hospital.dll
+C:\Users\TC\Source\Repos\practical-task-1-data-structures-question1-TcPirate1\Hospital\bin\Debug\net5.0\Hospital.exe
+C:\Users\TC\Source\Repos\practical-task-1-data-structures-question1-TcPirate1\Hospital\bin\Debug\net5.0\Hospital.deps.json
+C:\Users\TC\Source\Repos\practical-task-1-data-structures-question1-TcPirate1\Hospital\bin\Debug\net5.0\Hospital.runtimeconfig.json
+C:\Users\TC\Source\Repos\practical-task-1-data-structures-question1-TcPirate1\Hospital\bin\Debug\net5.0\Hospital.runtimeconfig.dev.json
+C:\Users\TC\Source\Repos\practical-task-1-data-structures-question1-TcPirate1\Hospital\bin\Debug\net5.0\Hospital.dll
+C:\Users\TC\Source\Repos\practical-task-1-data-structures-question1-TcPirate1\Hospital\bin\Debug\net5.0\Hospital.pdb
+C:\Users\TC\Source\Repos\practical-task-1-data-structures-question1-TcPirate1\Hospital\obj\Debug\net5.0\Hospital.csproj.AssemblyReference.cache
+C:\Users\TC\Source\Repos\practical-task-1-data-structures-question1-TcPirate1\Hospital\obj\Debug\net5.0\Hospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TC\Source\Repos\practical-task-1-data-structures-question1-TcPirate1\Hospital\obj\Debug\net5.0\Hospital.AssemblyInfoInputs.cache
+C:\Users\TC\Source\Repos\practical-task-1-data-structures-question1-TcPirate1\Hospital\obj\Debug\net5.0\Hospital.AssemblyInfo.cs
+C:\Users\TC\Source\Repos\practical-task-1-data-structures-question1-TcPirate1\Hospital\obj\Debug\net5.0\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\TC\Source\Repos\practical-task-1-data-structures-question1-TcPirate1\Hospital\obj\Debug\net5.0\Hospital.dll
+C:\Users\TC\Source\Repos\practical-task-1-data-structures-question1-TcPirate1\Hospital\obj\Debug\net5.0\refint\Hospital.dll
+C:\Users\TC\Source\Repos\practical-task-1-data-structures-question1-TcPirate1\Hospital\obj\Debug\net5.0\Hospital.pdb
+C:\Users\TC\Source\Repos\practical-task-1-data-structures-question1-TcPirate1\Hospital\obj\Debug\net5.0\Hospital.genruntimeconfig.cache
+C:\Users\TC\Source\Repos\practical-task-1-data-structures-question1-TcPirate1\Hospital\obj\Debug\net5.0\ref\Hospital.dll
+C:\Users\Terry\Source\Repos\practical-task-1-data-structures-question1-TcPirate1\Hospital\bin\Debug\net5.0\Hospital.exe
+C:\Users\Terry\Source\Repos\practical-task-1-data-structures-question1-TcPirate1\Hospital\bin\Debug\net5.0\Hospital.deps.json
+C:\Users\Terry\Source\Repos\practical-task-1-data-structures-question1-TcPirate1\Hospital\bin\Debug\net5.0\Hospital.runtimeconfig.json
+C:\Users\Terry\Source\Repos\practical-task-1-data-structures-question1-TcPirate1\Hospital\bin\Debug\net5.0\Hospital.runtimeconfig.dev.json
+C:\Users\Terry\Source\Repos\practical-task-1-data-structures-question1-TcPirate1\Hospital\bin\Debug\net5.0\Hospital.dll
+C:\Users\Terry\Source\Repos\practical-task-1-data-structures-question1-TcPirate1\Hospital\bin\Debug\net5.0\Hospital.pdb
+C:\Users\Terry\Source\Repos\practical-task-1-data-structures-question1-TcPirate1\Hospital\obj\Debug\net5.0\Hospital.csproj.AssemblyReference.cache
+C:\Users\Terry\Source\Repos\practical-task-1-data-structures-question1-TcPirate1\Hospital\obj\Debug\net5.0\Hospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Terry\Source\Repos\practical-task-1-data-structures-question1-TcPirate1\Hospital\obj\Debug\net5.0\Hospital.AssemblyInfoInputs.cache
+C:\Users\Terry\Source\Repos\practical-task-1-data-structures-question1-TcPirate1\Hospital\obj\Debug\net5.0\Hospital.AssemblyInfo.cs
+C:\Users\Terry\Source\Repos\practical-task-1-data-structures-question1-TcPirate1\Hospital\obj\Debug\net5.0\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\Terry\Source\Repos\practical-task-1-data-structures-question1-TcPirate1\Hospital\obj\Debug\net5.0\Hospital.dll
+C:\Users\Terry\Source\Repos\practical-task-1-data-structures-question1-TcPirate1\Hospital\obj\Debug\net5.0\refint\Hospital.dll
+C:\Users\Terry\Source\Repos\practical-task-1-data-structures-question1-TcPirate1\Hospital\obj\Debug\net5.0\Hospital.pdb
+C:\Users\Terry\Source\Repos\practical-task-1-data-structures-question1-TcPirate1\Hospital\obj\Debug\net5.0\Hospital.genruntimeconfig.cache
+C:\Users\Terry\Source\Repos\practical-task-1-data-structures-question1-TcPirate1\Hospital\obj\Debug\net5.0\ref\Hospital.dll
+C:\Users\Terry\Desktop\Hospital\bin\Debug\net5.0\Hospital.exe
+C:\Users\Terry\Desktop\Hospital\bin\Debug\net5.0\Hospital.deps.json
+C:\Users\Terry\Desktop\Hospital\bin\Debug\net5.0\Hospital.runtimeconfig.json
+C:\Users\Terry\Desktop\Hospital\bin\Debug\net5.0\Hospital.runtimeconfig.dev.json
+C:\Users\Terry\Desktop\Hospital\bin\Debug\net5.0\Hospital.dll
+C:\Users\Terry\Desktop\Hospital\bin\Debug\net5.0\Hospital.pdb
+C:\Users\Terry\Desktop\Hospital\obj\Debug\net5.0\Hospital.csproj.AssemblyReference.cache
+C:\Users\Terry\Desktop\Hospital\obj\Debug\net5.0\Hospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Terry\Desktop\Hospital\obj\Debug\net5.0\Hospital.AssemblyInfoInputs.cache
+C:\Users\Terry\Desktop\Hospital\obj\Debug\net5.0\Hospital.AssemblyInfo.cs
+C:\Users\Terry\Desktop\Hospital\obj\Debug\net5.0\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\Terry\Desktop\Hospital\obj\Debug\net5.0\Hospital.dll
+C:\Users\Terry\Desktop\Hospital\obj\Debug\net5.0\refint\Hospital.dll
+C:\Users\Terry\Desktop\Hospital\obj\Debug\net5.0\Hospital.pdb
+C:\Users\Terry\Desktop\Hospital\obj\Debug\net5.0\Hospital.genruntimeconfig.cache
+C:\Users\Terry\Desktop\Hospital\obj\Debug\net5.0\ref\Hospital.dll
