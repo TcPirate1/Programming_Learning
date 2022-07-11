@@ -1,0 +1,16 @@
+C:\Users\Terry\Desktop\TicketingSystem\bin\Debug\net5.0\TicketingSystem.exe
+C:\Users\Terry\Desktop\TicketingSystem\bin\Debug\net5.0\TicketingSystem.deps.json
+C:\Users\Terry\Desktop\TicketingSystem\bin\Debug\net5.0\TicketingSystem.runtimeconfig.json
+C:\Users\Terry\Desktop\TicketingSystem\bin\Debug\net5.0\TicketingSystem.runtimeconfig.dev.json
+C:\Users\Terry\Desktop\TicketingSystem\bin\Debug\net5.0\TicketingSystem.dll
+C:\Users\Terry\Desktop\TicketingSystem\bin\Debug\net5.0\TicketingSystem.pdb
+C:\Users\Terry\Desktop\TicketingSystem\obj\Debug\net5.0\TicketingSystem.csproj.AssemblyReference.cache
+C:\Users\Terry\Desktop\TicketingSystem\obj\Debug\net5.0\TicketingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Terry\Desktop\TicketingSystem\obj\Debug\net5.0\TicketingSystem.AssemblyInfoInputs.cache
+C:\Users\Terry\Desktop\TicketingSystem\obj\Debug\net5.0\TicketingSystem.AssemblyInfo.cs
+C:\Users\Terry\Desktop\TicketingSystem\obj\Debug\net5.0\TicketingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Terry\Desktop\TicketingSystem\obj\Debug\net5.0\TicketingSystem.dll
+C:\Users\Terry\Desktop\TicketingSystem\obj\Debug\net5.0\refint\TicketingSystem.dll
+C:\Users\Terry\Desktop\TicketingSystem\obj\Debug\net5.0\TicketingSystem.pdb
+C:\Users\Terry\Desktop\TicketingSystem\obj\Debug\net5.0\TicketingSystem.genruntimeconfig.cache
+C:\Users\Terry\Desktop\TicketingSystem\obj\Debug\net5.0\ref\TicketingSystem.dll
