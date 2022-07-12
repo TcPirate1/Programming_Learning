@@ -1,1 +1,1 @@
-Code for things made
+Learning to Programme. Just putting my code here.
