@@ -1,0 +1,42 @@
+C:\Users\Terry\Desktop\IT6033_Practical2\BuiltInSort\bin\Debug\netcoreapp3.1\BuiltInSort.exe
+C:\Users\Terry\Desktop\IT6033_Practical2\BuiltInSort\bin\Debug\netcoreapp3.1\BuiltInSort.deps.json
+C:\Users\Terry\Desktop\IT6033_Practical2\BuiltInSort\bin\Debug\netcoreapp3.1\BuiltInSort.runtimeconfig.json
+C:\Users\Terry\Desktop\IT6033_Practical2\BuiltInSort\bin\Debug\netcoreapp3.1\BuiltInSort.runtimeconfig.dev.json
+C:\Users\Terry\Desktop\IT6033_Practical2\BuiltInSort\bin\Debug\netcoreapp3.1\BuiltInSort.dll
+C:\Users\Terry\Desktop\IT6033_Practical2\BuiltInSort\bin\Debug\netcoreapp3.1\BuiltInSort.pdb
+C:\Users\Terry\Desktop\IT6033_Practical2\BuiltInSort\obj\Debug\netcoreapp3.1\BuiltInSort.csproj.AssemblyReference.cache
+C:\Users\Terry\Desktop\IT6033_Practical2\BuiltInSort\obj\Debug\netcoreapp3.1\BuiltInSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Terry\Desktop\IT6033_Practical2\BuiltInSort\obj\Debug\netcoreapp3.1\BuiltInSort.AssemblyInfoInputs.cache
+C:\Users\Terry\Desktop\IT6033_Practical2\BuiltInSort\obj\Debug\netcoreapp3.1\BuiltInSort.AssemblyInfo.cs
+C:\Users\Terry\Desktop\IT6033_Practical2\BuiltInSort\obj\Debug\netcoreapp3.1\BuiltInSort.csproj.CoreCompileInputs.cache
+C:\Users\Terry\Desktop\IT6033_Practical2\BuiltInSort\obj\Debug\netcoreapp3.1\BuiltInSort.dll
+C:\Users\Terry\Desktop\IT6033_Practical2\BuiltInSort\obj\Debug\netcoreapp3.1\BuiltInSort.pdb
+C:\Users\Terry\Desktop\IT6033_Practical2\BuiltInSort\obj\Debug\netcoreapp3.1\BuiltInSort.genruntimeconfig.cache
+C:\Users\Terry\Desktop\IT6033_Practical2\BuiltInSort (Dongxu_Terence_Chen)\bin\Debug\netcoreapp3.1\BuiltInSort.exe
+C:\Users\Terry\Desktop\IT6033_Practical2\BuiltInSort (Dongxu_Terence_Chen)\bin\Debug\netcoreapp3.1\BuiltInSort.deps.json
+C:\Users\Terry\Desktop\IT6033_Practical2\BuiltInSort (Dongxu_Terence_Chen)\bin\Debug\netcoreapp3.1\BuiltInSort.runtimeconfig.json
+C:\Users\Terry\Desktop\IT6033_Practical2\BuiltInSort (Dongxu_Terence_Chen)\bin\Debug\netcoreapp3.1\BuiltInSort.runtimeconfig.dev.json
+C:\Users\Terry\Desktop\IT6033_Practical2\BuiltInSort (Dongxu_Terence_Chen)\bin\Debug\netcoreapp3.1\BuiltInSort.dll
+C:\Users\Terry\Desktop\IT6033_Practical2\BuiltInSort (Dongxu_Terence_Chen)\bin\Debug\netcoreapp3.1\BuiltInSort.pdb
+C:\Users\Terry\Desktop\IT6033_Practical2\BuiltInSort (Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\BuiltInSort.csproj.AssemblyReference.cache
+C:\Users\Terry\Desktop\IT6033_Practical2\BuiltInSort (Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\BuiltInSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Terry\Desktop\IT6033_Practical2\BuiltInSort (Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\BuiltInSort.AssemblyInfoInputs.cache
+C:\Users\Terry\Desktop\IT6033_Practical2\BuiltInSort (Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\BuiltInSort.AssemblyInfo.cs
+C:\Users\Terry\Desktop\IT6033_Practical2\BuiltInSort (Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\BuiltInSort.csproj.CoreCompileInputs.cache
+C:\Users\Terry\Desktop\IT6033_Practical2\BuiltInSort (Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\BuiltInSort.dll
+C:\Users\Terry\Desktop\IT6033_Practical2\BuiltInSort (Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\BuiltInSort.pdb
+C:\Users\Terry\Desktop\IT6033_Practical2\BuiltInSort (Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\BuiltInSort.genruntimeconfig.cache
+C:\Users\TC\Desktop\IT6033_Practical2\BuiltInSort (Dongxu_Terence_Chen)\bin\Debug\netcoreapp3.1\BuiltInSort.exe
+C:\Users\TC\Desktop\IT6033_Practical2\BuiltInSort (Dongxu_Terence_Chen)\bin\Debug\netcoreapp3.1\BuiltInSort.deps.json
+C:\Users\TC\Desktop\IT6033_Practical2\BuiltInSort (Dongxu_Terence_Chen)\bin\Debug\netcoreapp3.1\BuiltInSort.runtimeconfig.json
+C:\Users\TC\Desktop\IT6033_Practical2\BuiltInSort (Dongxu_Terence_Chen)\bin\Debug\netcoreapp3.1\BuiltInSort.runtimeconfig.dev.json
+C:\Users\TC\Desktop\IT6033_Practical2\BuiltInSort (Dongxu_Terence_Chen)\bin\Debug\netcoreapp3.1\BuiltInSort.dll
+C:\Users\TC\Desktop\IT6033_Practical2\BuiltInSort (Dongxu_Terence_Chen)\bin\Debug\netcoreapp3.1\BuiltInSort.pdb
+C:\Users\TC\Desktop\IT6033_Practical2\BuiltInSort (Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\BuiltInSort.csproj.AssemblyReference.cache
+C:\Users\TC\Desktop\IT6033_Practical2\BuiltInSort (Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\BuiltInSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TC\Desktop\IT6033_Practical2\BuiltInSort (Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\BuiltInSort.AssemblyInfoInputs.cache
+C:\Users\TC\Desktop\IT6033_Practical2\BuiltInSort (Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\BuiltInSort.AssemblyInfo.cs
+C:\Users\TC\Desktop\IT6033_Practical2\BuiltInSort (Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\BuiltInSort.csproj.CoreCompileInputs.cache
+C:\Users\TC\Desktop\IT6033_Practical2\BuiltInSort (Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\BuiltInSort.dll
+C:\Users\TC\Desktop\IT6033_Practical2\BuiltInSort (Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\BuiltInSort.pdb
+C:\Users\TC\Desktop\IT6033_Practical2\BuiltInSort (Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\BuiltInSort.genruntimeconfig.cache
