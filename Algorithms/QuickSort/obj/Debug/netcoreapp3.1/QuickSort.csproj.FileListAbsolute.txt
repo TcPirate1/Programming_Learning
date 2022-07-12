@@ -1,0 +1,42 @@
+C:\Users\Terry\Desktop\IT6033_Practical2\QuickSort(Dongxu_Terence_Chen)\bin\Debug\netcoreapp3.1\QuickSort.exe
+C:\Users\Terry\Desktop\IT6033_Practical2\QuickSort(Dongxu_Terence_Chen)\bin\Debug\netcoreapp3.1\QuickSort.deps.json
+C:\Users\Terry\Desktop\IT6033_Practical2\QuickSort(Dongxu_Terence_Chen)\bin\Debug\netcoreapp3.1\QuickSort.runtimeconfig.json
+C:\Users\Terry\Desktop\IT6033_Practical2\QuickSort(Dongxu_Terence_Chen)\bin\Debug\netcoreapp3.1\QuickSort.runtimeconfig.dev.json
+C:\Users\Terry\Desktop\IT6033_Practical2\QuickSort(Dongxu_Terence_Chen)\bin\Debug\netcoreapp3.1\QuickSort.dll
+C:\Users\Terry\Desktop\IT6033_Practical2\QuickSort(Dongxu_Terence_Chen)\bin\Debug\netcoreapp3.1\QuickSort.pdb
+C:\Users\Terry\Desktop\IT6033_Practical2\QuickSort(Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\QuickSort.csproj.AssemblyReference.cache
+C:\Users\Terry\Desktop\IT6033_Practical2\QuickSort(Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Terry\Desktop\IT6033_Practical2\QuickSort(Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\QuickSort.AssemblyInfoInputs.cache
+C:\Users\Terry\Desktop\IT6033_Practical2\QuickSort(Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\QuickSort.AssemblyInfo.cs
+C:\Users\Terry\Desktop\IT6033_Practical2\QuickSort(Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\Terry\Desktop\IT6033_Practical2\QuickSort(Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\QuickSort.dll
+C:\Users\Terry\Desktop\IT6033_Practical2\QuickSort(Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\QuickSort.pdb
+C:\Users\Terry\Desktop\IT6033_Practical2\QuickSort(Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\QuickSort.genruntimeconfig.cache
+C:\Users\Terry\Desktop\IT6033_Practical2\QuickSort (Dongxu_Terence_Chen)\bin\Debug\netcoreapp3.1\QuickSort.exe
+C:\Users\Terry\Desktop\IT6033_Practical2\QuickSort (Dongxu_Terence_Chen)\bin\Debug\netcoreapp3.1\QuickSort.deps.json
+C:\Users\Terry\Desktop\IT6033_Practical2\QuickSort (Dongxu_Terence_Chen)\bin\Debug\netcoreapp3.1\QuickSort.runtimeconfig.json
+C:\Users\Terry\Desktop\IT6033_Practical2\QuickSort (Dongxu_Terence_Chen)\bin\Debug\netcoreapp3.1\QuickSort.runtimeconfig.dev.json
+C:\Users\Terry\Desktop\IT6033_Practical2\QuickSort (Dongxu_Terence_Chen)\bin\Debug\netcoreapp3.1\QuickSort.dll
+C:\Users\Terry\Desktop\IT6033_Practical2\QuickSort (Dongxu_Terence_Chen)\bin\Debug\netcoreapp3.1\QuickSort.pdb
+C:\Users\Terry\Desktop\IT6033_Practical2\QuickSort (Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\QuickSort.csproj.AssemblyReference.cache
+C:\Users\Terry\Desktop\IT6033_Practical2\QuickSort (Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Terry\Desktop\IT6033_Practical2\QuickSort (Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\QuickSort.AssemblyInfoInputs.cache
+C:\Users\Terry\Desktop\IT6033_Practical2\QuickSort (Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\QuickSort.AssemblyInfo.cs
+C:\Users\Terry\Desktop\IT6033_Practical2\QuickSort (Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\Terry\Desktop\IT6033_Practical2\QuickSort (Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\QuickSort.dll
+C:\Users\Terry\Desktop\IT6033_Practical2\QuickSort (Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\QuickSort.pdb
+C:\Users\Terry\Desktop\IT6033_Practical2\QuickSort (Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\QuickSort.genruntimeconfig.cache
+C:\Users\TC\Desktop\IT6033_Practical2\QuickSort (Dongxu_Terence_Chen)\bin\Debug\netcoreapp3.1\QuickSort.exe
+C:\Users\TC\Desktop\IT6033_Practical2\QuickSort (Dongxu_Terence_Chen)\bin\Debug\netcoreapp3.1\QuickSort.deps.json
+C:\Users\TC\Desktop\IT6033_Practical2\QuickSort (Dongxu_Terence_Chen)\bin\Debug\netcoreapp3.1\QuickSort.runtimeconfig.json
+C:\Users\TC\Desktop\IT6033_Practical2\QuickSort (Dongxu_Terence_Chen)\bin\Debug\netcoreapp3.1\QuickSort.runtimeconfig.dev.json
+C:\Users\TC\Desktop\IT6033_Practical2\QuickSort (Dongxu_Terence_Chen)\bin\Debug\netcoreapp3.1\QuickSort.dll
+C:\Users\TC\Desktop\IT6033_Practical2\QuickSort (Dongxu_Terence_Chen)\bin\Debug\netcoreapp3.1\QuickSort.pdb
+C:\Users\TC\Desktop\IT6033_Practical2\QuickSort (Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\QuickSort.csproj.AssemblyReference.cache
+C:\Users\TC\Desktop\IT6033_Practical2\QuickSort (Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TC\Desktop\IT6033_Practical2\QuickSort (Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\QuickSort.AssemblyInfoInputs.cache
+C:\Users\TC\Desktop\IT6033_Practical2\QuickSort (Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\QuickSort.AssemblyInfo.cs
+C:\Users\TC\Desktop\IT6033_Practical2\QuickSort (Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\TC\Desktop\IT6033_Practical2\QuickSort (Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\QuickSort.dll
+C:\Users\TC\Desktop\IT6033_Practical2\QuickSort (Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\QuickSort.pdb
+C:\Users\TC\Desktop\IT6033_Practical2\QuickSort (Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\QuickSort.genruntimeconfig.cache
