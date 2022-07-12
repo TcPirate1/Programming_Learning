@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>IT6033_Practical2_Dongxu_Terence_Chen_</RootNamespace>
+  </PropertyGroup>
+
+</Project>

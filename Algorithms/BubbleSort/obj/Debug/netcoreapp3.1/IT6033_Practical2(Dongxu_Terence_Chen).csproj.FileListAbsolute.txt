@@ -1,0 +1,28 @@
+C:\Users\Terry\Desktop\IT6033_Practical2\IT6033_Practical2(Dongxu_Terence_Chen)\bin\Debug\netcoreapp3.1\IT6033_Practical2(Dongxu_Terence_Chen).exe
+C:\Users\Terry\Desktop\IT6033_Practical2\IT6033_Practical2(Dongxu_Terence_Chen)\bin\Debug\netcoreapp3.1\IT6033_Practical2(Dongxu_Terence_Chen).deps.json
+C:\Users\Terry\Desktop\IT6033_Practical2\IT6033_Practical2(Dongxu_Terence_Chen)\bin\Debug\netcoreapp3.1\IT6033_Practical2(Dongxu_Terence_Chen).runtimeconfig.json
+C:\Users\Terry\Desktop\IT6033_Practical2\IT6033_Practical2(Dongxu_Terence_Chen)\bin\Debug\netcoreapp3.1\IT6033_Practical2(Dongxu_Terence_Chen).runtimeconfig.dev.json
+C:\Users\Terry\Desktop\IT6033_Practical2\IT6033_Practical2(Dongxu_Terence_Chen)\bin\Debug\netcoreapp3.1\IT6033_Practical2(Dongxu_Terence_Chen).dll
+C:\Users\Terry\Desktop\IT6033_Practical2\IT6033_Practical2(Dongxu_Terence_Chen)\bin\Debug\netcoreapp3.1\IT6033_Practical2(Dongxu_Terence_Chen).pdb
+C:\Users\Terry\Desktop\IT6033_Practical2\IT6033_Practical2(Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\IT6033_Practical2(Dongxu_Terence_Chen).csproj.AssemblyReference.cache
+C:\Users\Terry\Desktop\IT6033_Practical2\IT6033_Practical2(Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\IT6033_Practical2(Dongxu_Terence_Chen).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Terry\Desktop\IT6033_Practical2\IT6033_Practical2(Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\IT6033_Practical2(Dongxu_Terence_Chen).AssemblyInfoInputs.cache
+C:\Users\Terry\Desktop\IT6033_Practical2\IT6033_Practical2(Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\IT6033_Practical2(Dongxu_Terence_Chen).AssemblyInfo.cs
+C:\Users\Terry\Desktop\IT6033_Practical2\IT6033_Practical2(Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\IT6033_Practical2(Dongxu_Terence_Chen).csproj.CoreCompileInputs.cache
+C:\Users\Terry\Desktop\IT6033_Practical2\IT6033_Practical2(Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\IT6033_Practical2(Dongxu_Terence_Chen).dll
+C:\Users\Terry\Desktop\IT6033_Practical2\IT6033_Practical2(Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\IT6033_Practical2(Dongxu_Terence_Chen).pdb
+C:\Users\Terry\Desktop\IT6033_Practical2\IT6033_Practical2(Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\IT6033_Practical2(Dongxu_Terence_Chen).genruntimeconfig.cache
+C:\Users\Terry\Desktop\IT6033_Practical2\BubbleSort (Dongxu_Terence_Chen)\bin\Debug\netcoreapp3.1\IT6033_Practical2(Dongxu_Terence_Chen).exe
+C:\Users\Terry\Desktop\IT6033_Practical2\BubbleSort (Dongxu_Terence_Chen)\bin\Debug\netcoreapp3.1\IT6033_Practical2(Dongxu_Terence_Chen).deps.json
+C:\Users\Terry\Desktop\IT6033_Practical2\BubbleSort (Dongxu_Terence_Chen)\bin\Debug\netcoreapp3.1\IT6033_Practical2(Dongxu_Terence_Chen).runtimeconfig.json
+C:\Users\Terry\Desktop\IT6033_Practical2\BubbleSort (Dongxu_Terence_Chen)\bin\Debug\netcoreapp3.1\IT6033_Practical2(Dongxu_Terence_Chen).runtimeconfig.dev.json
+C:\Users\Terry\Desktop\IT6033_Practical2\BubbleSort (Dongxu_Terence_Chen)\bin\Debug\netcoreapp3.1\IT6033_Practical2(Dongxu_Terence_Chen).dll
+C:\Users\Terry\Desktop\IT6033_Practical2\BubbleSort (Dongxu_Terence_Chen)\bin\Debug\netcoreapp3.1\IT6033_Practical2(Dongxu_Terence_Chen).pdb
+C:\Users\Terry\Desktop\IT6033_Practical2\BubbleSort (Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\IT6033_Practical2(Dongxu_Terence_Chen).csproj.AssemblyReference.cache
+C:\Users\Terry\Desktop\IT6033_Practical2\BubbleSort (Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\IT6033_Practical2(Dongxu_Terence_Chen).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Terry\Desktop\IT6033_Practical2\BubbleSort (Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\IT6033_Practical2(Dongxu_Terence_Chen).AssemblyInfoInputs.cache
+C:\Users\Terry\Desktop\IT6033_Practical2\BubbleSort (Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\IT6033_Practical2(Dongxu_Terence_Chen).AssemblyInfo.cs
+C:\Users\Terry\Desktop\IT6033_Practical2\BubbleSort (Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\IT6033_Practical2(Dongxu_Terence_Chen).csproj.CoreCompileInputs.cache
+C:\Users\Terry\Desktop\IT6033_Practical2\BubbleSort (Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\IT6033_Practical2(Dongxu_Terence_Chen).dll
+C:\Users\Terry\Desktop\IT6033_Practical2\BubbleSort (Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\IT6033_Practical2(Dongxu_Terence_Chen).pdb
+C:\Users\Terry\Desktop\IT6033_Practical2\BubbleSort (Dongxu_Terence_Chen)\obj\Debug\netcoreapp3.1\IT6033_Practical2(Dongxu_Terence_Chen).genruntimeconfig.cache
