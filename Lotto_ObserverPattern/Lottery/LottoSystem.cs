@@ -8,8 +8,15 @@ namespace Lottery
 {
     internal class LottoSystem : IObserver<Player>
     {
+        private readonly string name;
         private readonly Random random = new();
         private IDisposable cancellation;
+        public LottoSystem(string name)
+        {
+            if(string.IsNullOrEmpty(name))
+                throw new ArgumentNullException("Enter name for observer");
+            this.name = name;
+        }
         public virtual void Subscribe(LottoDrawer provider)
         {
             cancellation = provider.Subscribe(this);
@@ -37,7 +44,7 @@ namespace Lottery
                 Console.WriteLine("Welcome to a new week of Lotto.");
                 for (int i = 0; info.PlayerName.Length > 0; i++)
                 {
-                    Console.WriteLine(info.PlayerName[i]);
+                    Console.WriteLine(info.PlayerName);
                 }
                 balance =- info.Numbers.Length * count;
                 int Result = random.Next(1, 50);
