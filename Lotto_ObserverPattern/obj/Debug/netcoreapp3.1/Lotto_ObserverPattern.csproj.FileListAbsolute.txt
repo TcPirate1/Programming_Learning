@@ -1,0 +1,28 @@
+C:\Users\TC\Desktop\IT6033_Practical4\Lotto_ObserverPattern\bin\Debug\netcoreapp3.1\Lotto_ObserverPattern.exe
+C:\Users\TC\Desktop\IT6033_Practical4\Lotto_ObserverPattern\bin\Debug\netcoreapp3.1\Lotto_ObserverPattern.deps.json
+C:\Users\TC\Desktop\IT6033_Practical4\Lotto_ObserverPattern\bin\Debug\netcoreapp3.1\Lotto_ObserverPattern.runtimeconfig.json
+C:\Users\TC\Desktop\IT6033_Practical4\Lotto_ObserverPattern\bin\Debug\netcoreapp3.1\Lotto_ObserverPattern.runtimeconfig.dev.json
+C:\Users\TC\Desktop\IT6033_Practical4\Lotto_ObserverPattern\bin\Debug\netcoreapp3.1\Lotto_ObserverPattern.dll
+C:\Users\TC\Desktop\IT6033_Practical4\Lotto_ObserverPattern\bin\Debug\netcoreapp3.1\Lotto_ObserverPattern.pdb
+C:\Users\TC\Desktop\IT6033_Practical4\Lotto_ObserverPattern\obj\Debug\netcoreapp3.1\Lotto_ObserverPattern.csproj.AssemblyReference.cache
+C:\Users\TC\Desktop\IT6033_Practical4\Lotto_ObserverPattern\obj\Debug\netcoreapp3.1\Lotto_ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TC\Desktop\IT6033_Practical4\Lotto_ObserverPattern\obj\Debug\netcoreapp3.1\Lotto_ObserverPattern.AssemblyInfoInputs.cache
+C:\Users\TC\Desktop\IT6033_Practical4\Lotto_ObserverPattern\obj\Debug\netcoreapp3.1\Lotto_ObserverPattern.AssemblyInfo.cs
+C:\Users\TC\Desktop\IT6033_Practical4\Lotto_ObserverPattern\obj\Debug\netcoreapp3.1\Lotto_ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\TC\Desktop\IT6033_Practical4\Lotto_ObserverPattern\obj\Debug\netcoreapp3.1\Lotto_ObserverPattern.dll
+C:\Users\TC\Desktop\IT6033_Practical4\Lotto_ObserverPattern\obj\Debug\netcoreapp3.1\Lotto_ObserverPattern.pdb
+C:\Users\TC\Desktop\IT6033_Practical4\Lotto_ObserverPattern\obj\Debug\netcoreapp3.1\Lotto_ObserverPattern.genruntimeconfig.cache
+\\learn.cpp.ac.nz\User Data\Students\20210165\Desktop\IT6033_Practical4\Lotto_ObserverPattern\bin\Debug\netcoreapp3.1\Lotto_ObserverPattern.exe
+\\learn.cpp.ac.nz\User Data\Students\20210165\Desktop\IT6033_Practical4\Lotto_ObserverPattern\bin\Debug\netcoreapp3.1\Lotto_ObserverPattern.deps.json
+\\learn.cpp.ac.nz\User Data\Students\20210165\Desktop\IT6033_Practical4\Lotto_ObserverPattern\bin\Debug\netcoreapp3.1\Lotto_ObserverPattern.runtimeconfig.json
+\\learn.cpp.ac.nz\User Data\Students\20210165\Desktop\IT6033_Practical4\Lotto_ObserverPattern\bin\Debug\netcoreapp3.1\Lotto_ObserverPattern.runtimeconfig.dev.json
+\\learn.cpp.ac.nz\User Data\Students\20210165\Desktop\IT6033_Practical4\Lotto_ObserverPattern\bin\Debug\netcoreapp3.1\Lotto_ObserverPattern.dll
+\\learn.cpp.ac.nz\User Data\Students\20210165\Desktop\IT6033_Practical4\Lotto_ObserverPattern\bin\Debug\netcoreapp3.1\Lotto_ObserverPattern.pdb
+\\learn.cpp.ac.nz\User Data\Students\20210165\Desktop\IT6033_Practical4\Lotto_ObserverPattern\obj\Debug\netcoreapp3.1\Lotto_ObserverPattern.csproj.AssemblyReference.cache
+\\learn.cpp.ac.nz\User Data\Students\20210165\Desktop\IT6033_Practical4\Lotto_ObserverPattern\obj\Debug\netcoreapp3.1\Lotto_ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+\\learn.cpp.ac.nz\User Data\Students\20210165\Desktop\IT6033_Practical4\Lotto_ObserverPattern\obj\Debug\netcoreapp3.1\Lotto_ObserverPattern.AssemblyInfoInputs.cache
+\\learn.cpp.ac.nz\User Data\Students\20210165\Desktop\IT6033_Practical4\Lotto_ObserverPattern\obj\Debug\netcoreapp3.1\Lotto_ObserverPattern.AssemblyInfo.cs
+\\learn.cpp.ac.nz\User Data\Students\20210165\Desktop\IT6033_Practical4\Lotto_ObserverPattern\obj\Debug\netcoreapp3.1\Lotto_ObserverPattern.csproj.CoreCompileInputs.cache
+\\learn.cpp.ac.nz\User Data\Students\20210165\Desktop\IT6033_Practical4\Lotto_ObserverPattern\obj\Debug\netcoreapp3.1\Lotto_ObserverPattern.dll
+\\learn.cpp.ac.nz\User Data\Students\20210165\Desktop\IT6033_Practical4\Lotto_ObserverPattern\obj\Debug\netcoreapp3.1\Lotto_ObserverPattern.pdb
+\\learn.cpp.ac.nz\User Data\Students\20210165\Desktop\IT6033_Practical4\Lotto_ObserverPattern\obj\Debug\netcoreapp3.1\Lotto_ObserverPattern.genruntimeconfig.cache
