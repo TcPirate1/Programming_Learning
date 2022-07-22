@@ -37,19 +37,34 @@ namespace Lottery
         {
             int count = 0;
             int balance = info.PlayerBudget;
+            bool updated = false;
 
-            if (info != null)
+            do
             {
-                count++;
-                Console.WriteLine("Welcome to a new week of Lotto.");
-                for (int i = 0; info.PlayerName.Length > 0; i++)
-                {
-                    Console.WriteLine(info.PlayerName);
-                }
-                balance =- info.Numbers.Length * count;
                 int Result = random.Next(1, 50);
-                Console.WriteLine($"This week's winning number is:...{Result}!");
+                if (info != null)
+                {
+                    count++;
+                    Console.WriteLine($"\nWelcome to a new week of Lotto {info.PlayerName}");
+                    balance -= info.Numbers.Length * count;
+                    Console.WriteLine($"This week's winning number is:...{Result}!");
+                    Console.WriteLine($"{info.PlayerName}'s balance is {balance}");
+                }
+                foreach (int Number in info.Numbers)
+                {
+                    if (Result == Number)
+                    {
+                        Console.WriteLine($"Congradulations {info.PlayerName}, {Number} is a winning number!");
+                        updated = true;
+                    }
+                    else
+                    {
+                        Console.WriteLine($"{Number} is not a winning number.");
+                        updated = false;
+                    }
+                }
             }
+            while (updated == true);
         }
     }
 }
