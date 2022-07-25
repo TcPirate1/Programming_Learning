@@ -13,7 +13,7 @@ namespace Lottery
         private IDisposable cancellation;
         public LottoSystem(string name)
         {
-            if(string.IsNullOrEmpty(name))
+            if (string.IsNullOrEmpty(name))
                 throw new ArgumentNullException("Enter name for observer");
             this.name = name;
         }
@@ -35,36 +35,32 @@ namespace Lottery
 
         public virtual void OnNext(Player info)
         {
-            int count = 0;
             int balance = info.PlayerBudget;
-            bool updated = false;
 
-            do
+            int Result = random.Next(1, 50);
+            if (info != null)
             {
-                int Result = random.Next(1, 50);
-                if (info != null)
+                Console.WriteLine($"\nWelcome to a new week of Lotto {info.PlayerName}");
+                Console.WriteLine($"This week's winning number is:...{Result}!\n");
+            }
+            else
+            {
+                throw new ArgumentNullException("OnNext(Player info) is null.");
+            }
+
+            foreach (int Number in info.Numbers)
+            {
+                balance -= 1;
+                if (Result == Number)
                 {
-                    count++;
-                    Console.WriteLine($"\nWelcome to a new week of Lotto {info.PlayerName}");
-                    balance -= info.Numbers.Length * count;
-                    Console.WriteLine($"This week's winning number is:...{Result}!");
-                    Console.WriteLine($"{info.PlayerName}'s balance is {balance}");
+                    Console.WriteLine($"Congradulations {info.PlayerName}, {Number} is a winning number!");
                 }
-                foreach (int Number in info.Numbers)
+                else
                 {
-                    if (Result == Number)
-                    {
-                        Console.WriteLine($"Congradulations {info.PlayerName}, {Number} is a winning number!");
-                        updated = true;
-                    }
-                    else
-                    {
-                        Console.WriteLine($"{Number} is not a winning number.");
-                        updated = false;
-                    }
+                    Console.WriteLine($"Sorry, {Number} is not a winning number.");
                 }
             }
-            while (updated == true);
+            Console.WriteLine($"\n{info.PlayerName}'s balance after playing is ${balance}");
         }
     }
 }
