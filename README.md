@@ -1,8 +1,8 @@
 # Repository for projects used to learn coding & programming
 
-Repository contains a mixture of GUI programs and non-GUI programs
+Repository contains a mixture of GUI programs and non-GUI programs.
 
-Have not finished creating readme's for the folders yet
+Each folder will have a readme in them.
 
 Also please excuse any comments with paragraphs in them. This was a requirement for some class assessements
 and is not part of my normal practice!
