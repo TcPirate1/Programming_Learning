@@ -15,3 +15,7 @@ Timing the built in C# .Net Array sorting function to see how fast it is compare
 THe assignment required us to write a Quick Sort for the same list of category items from BuiltIn by creating a "pivot" to speed up the sorting.
 
 This sorting was also timed to compare with BuiltIn method of sorting.
+
+## Searching_Algorithms(Linear&Binary)
+
+In this assignment a list of movie titles was given in the form of a txt file and were asked to write programs that allowed the user to search the txt file using Linear and Binary searching algorithms.
