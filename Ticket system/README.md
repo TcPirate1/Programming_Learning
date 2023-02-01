@@ -1,6 +1,13 @@
 # Ticketing System
-Non-GUI Mock Ticketing system program made in C#
-for the end of year assignment of a Programming Class.
+Non-GUI Mock Ticketing system program made in C# for the end of year assignment of a Programming Class.
+
+Can accept user input and handle some empty fields if the user does not know the answer to them.
+
+Can 'change' a staff's password if the issue is given in the issue input.
+
+The 'IT Support' user can change aspects of the ticket.
+
+Can summarize the amount of tickets in the system.
 
 ## Scenario
 The program took in User Input from 'staff' and sending that input to the 'IT Support', who can then reply to the ticket when the job is done.
